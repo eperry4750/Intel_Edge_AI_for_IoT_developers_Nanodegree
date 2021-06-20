@@ -1,1 +1,1 @@
-# eperry4750-Intel_Edge_AI_for_IoT_developers_Nanodegree
+# This repository contains material from Udacity's Intel Edge AI for Iot developers Nanodegree course. 
