@@ -1,0 +1,12 @@
+
+
+linux
+
+python app.py -i blue-car.jpg
+python app.py -i test_video.mp4
+
+
+windows
+
+python app.py -i "C:\Users\eperr\Anaconda3\Scripts3\Edge\handling_input_streams\blue-car.jpg"
+python app.py -i "C:\Users\eperr\Anaconda3\Scripts3\Edge\handling_input_streams\test_video.mp4"
