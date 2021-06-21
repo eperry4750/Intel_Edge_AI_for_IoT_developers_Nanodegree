@@ -1,0 +1,3 @@
+
+cd C:\Users\eperr\Anaconda3\Scripts3\Edge\inference_requests
+python test.py
